@@ -1,3 +1,5 @@
 def square_array(array)
-  # your code here
+  numbers = [1, 2, 3]
+puts "The square of #{number} is #{number**2}."
+  end
 end
